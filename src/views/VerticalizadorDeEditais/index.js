@@ -89,7 +89,7 @@ export const Login = () => {
     <Container>
       <Box width='100%'>
         <h2>Verticalizador de Editais</h2>
-        <h6>Para verticalizar mais de uma matperia por vez, separe-as com "_"</h6>
+        <h6>Para verticalizar mais de uma matéria por vez, separe-as com "_"</h6>
 
         <Box
           sx={{
